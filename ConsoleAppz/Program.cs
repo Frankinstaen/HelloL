@@ -11,7 +11,7 @@ namespace ConsoleAppz
         }
         public static string seriesSum(int n)
         {
-            //fhghghghg
+            //параерекгоекгенггоен
             double sum = 0;
             int count = 1;
             for (int i = 1; i <= n; i++)
